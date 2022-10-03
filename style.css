@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(115, 97, 126); 
+    height: 80px;
+}
+
+#time{
+    background-color: rgb(247, 234, 234);
+    text-align: center;
+    margin-top: 30%;
+    border-color: black;
+    font-style: oblique;
+    font-size: xx-large;
+}
